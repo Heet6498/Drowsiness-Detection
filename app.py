@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 01:50:06 2021
-
-@author: Shrita
-"""
 
 import tensorflow as tf
 import cv2
@@ -75,14 +69,3 @@ def predicteyes():
 
 if __name__ == "__main__":
     app.run(debug=True)
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
